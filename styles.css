@@ -1,6 +1,6 @@
 @font-face {
     font-family: "COMIC";
-    src: url(fonte/COMIC.ttf);
+    src: url(fonte/COMIC.TTF);
 }
 
 :root {
@@ -9,7 +9,7 @@
     --botao-azul: #78aff1;
     --cor-de-fundo: #00030C;
     --botao-azul-efeito: #3c92fa;
-    --fonte-principal: "/fonte/COMIC";
+    --fonte-principal: "COMIC";
 }
 
 body {
